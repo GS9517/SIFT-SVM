@@ -13,7 +13,7 @@ import seaborn as sns
 
 # Set parameters
 dataset_dir = 'Aerial_Landscapes'
-model_dir = 'models'  # The location to save the model
+model_dir = 'models'
 os.makedirs(model_dir, exist_ok=True)
 
 categories = ['Agriculture', 'Airport', 'Beach', 'City', 'Desert', 'Forest', 'Grassland',
