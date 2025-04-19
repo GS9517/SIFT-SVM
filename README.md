@@ -1,4 +1,3 @@
-```markdown
 # 🛰️ SIFT-SVM: Aerial Landscape Classification using SIFT and Bag-of-Visual-Words
 
 This repository implements a feature-based classification pipeline using **SIFT descriptors**, **Bag-of-Visual-Words (BoVW)** representation, and an **SVM classifier** for classifying aerial images into 15 categories.
